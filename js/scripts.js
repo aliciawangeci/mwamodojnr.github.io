@@ -1,5 +1,5 @@
 /*
- * This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. 
+ * This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
  * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
  * Copyright (c) 2016 Julian Garnier
  */
@@ -23,10 +23,10 @@ window.onload = function() {
 
   var messages = [
     'Hey there 👋',
-    'I\'m Julian',
+    'I\'m Mwamodo',
     'I design and code things on the web',
-    'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:hello@julian.gr">hello@julian.gr</a>',
-    '<a target="_blank" href="https://twitter.com/juliangarnier">twitter.com/juliangarnier</a><br><a target="_blank" href="https://codepen.io/juliangarnier">codepen.io/juliangarnier</a><br><a target="_blank" href="https://github.com/juliangarnier">github.com/juliangarnier</a>',
+    'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:mwamodojnr@protonmail.com">mwamodojnr@protonmail.com</a>',
+    '<a target="_blank" href="https://twitter.com/mwamodojnr">twitter.com/mwamodojnr</a><br><a target="_blank" href="https://codepen.io/mwamodojnr">codepen.io/mwamodojnr</a><br><a target="_blank" href="https://github.com/mwamodojnr">github.com/mwamodojnr</a>',
     getCurrentTime(),
     '👀 J.'
   ]
