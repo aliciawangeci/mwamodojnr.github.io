@@ -24,8 +24,8 @@ window.onload = function() {
   var messages = [
     'Hey there 👋',
     'I\'m Mwamodo',
-    'I design and code things on the web. <br> Here are some of the things I have made <a href="https://mwamodojnr.github.io/blog/">https://mwamodojnr.github.io/portfolio/</a>',
-    'I sometimes write.<br> Checkout my blog at <a href="https://mwamodojnr.github.io/blog/">https://mwamodojnr.github.io/blog/</a>',
+    'I design and code things on the web. <br> Here are some of the things I have made <a href="https://mwamodojnr.github.io/blog/" target="_blank">https://mwamodojnr.github.io/portfolio/</a>',
+    'I sometimes write.<br> Checkout my blog at <a href="https://mwamodojnr.github.io/blog/" target="_blank">https://mwamodojnr.github.io/blog/</a>',
     'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:mwamodojnr@protonmail.com">mwamodojnr@protonmail.com</a>',
     '<a target="_blank" href="https://twitter.com/mwamodojnr">twitter.com/mwamodojnr</a><br><a target="_blank" href="https://codepen.io/mwamodojnr">codepen.io/mwamodojnr</a><br><a target="_blank" href="https://github.com/mwamodojnr">github.com/mwamodojnr</a>',
     getCurrentTime(),
